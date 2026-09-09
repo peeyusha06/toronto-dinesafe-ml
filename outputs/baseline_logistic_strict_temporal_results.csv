@@ -1,0 +1,2 @@
+model,feature_set,val_pr_auc,val_roc_auc,threshold,test_pr_auc,test_roc_auc,test_precision,test_recall,test_f1,test_accuracy,train_rows,val_rows,test_rows,train_start,train_end,val_start,val_end,test_start,test_end
+baseline_strict_split,previous inspection only (7 features),0.11097619081986218,0.636980101513332,0.6,0.12741365121729256,0.6440100921124496,0.1505524861878453,0.22851153039832284,0.18151540383014156,0.8450992751339427,45334,11740,12692,2023-11-10,2025-11-05,2025-11-06,2026-04-09,2026-04-10,2026-09-08

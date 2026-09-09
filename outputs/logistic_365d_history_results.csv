@@ -1,0 +1,2 @@
+model,feature_set,val_pr_auc,val_roc_auc,threshold,test_pr_auc,test_roc_auc,test_precision,test_recall,test_f1,test_accuracy,train_rows,val_rows,test_rows,train_start,train_end,val_start,val_end,test_start,test_end
+logistic_365d_history,previous inspection + 365-day history (11 features),0.16006351798195775,0.7220246192284272,0.6,0.16238814021022,0.704138853793499,0.1868377021751255,0.35115303983228513,0.24390243902439024,0.836353608572329,45334,11740,12692,2023-11-10,2025-11-05,2025-11-06,2026-04-09,2026-04-10,2026-09-08
