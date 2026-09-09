@@ -34,6 +34,8 @@ To run it locally: `pip install -r requirements.txt` then `streamlit run app.py`
 
 The raw DineSafe export and the historical ZIP archive are not included in this repo (they're too large and are public data anyway, downloadable from the [Toronto Open Data DineSafe page](https://open.toronto.ca/dataset/dinesafe/)). A few of the larger intermediate files built from them (the full inspection-level and prediction-event tables) are also left out for the same reason. Everything the dashboard actually needs — the small result CSVs and figures in `outputs/` — is included, along with all 16 research notebooks (their saved outputs are visible directly on GitHub without rerunning anything).
 
+This means the notebooks can't actually be re-run straight from a clean clone of this repo — every notebook reads one of those excluded intermediate files (and notebooks 13/14 read `Dinesafe.csv` directly). To reproduce the full pipeline from scratch: download `Dinesafe.csv` and the historical ZIP from Toronto Open Data, put them in the project root, run `build_longitudinal_dataset.py` to rebuild the intermediate tables, then run the notebooks in order. The saved CSVs and figures in `outputs/` are included specifically so the results can be inspected without doing any of that.
+
 ## Where things are
 
 - `docs/FINAL_RESEARCH_SUMMARY.md` — full write-up

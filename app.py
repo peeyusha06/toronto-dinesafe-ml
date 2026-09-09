@@ -78,7 +78,7 @@ progression = pd.DataFrame([
 ])
 st.dataframe(progression.set_index("Feature set / model").round(4), use_container_width=True)
 
-st.subheader("History depth: the central finding")
+st.subheader("Recency vs. longer history")
 fig, ax = plt.subplots(figsize=(5, 3.5))
 labels = ["Previous\ninspection only", "+365-day\nhistory", "+730-day\nhistory"]
 values = [baseline["test_pr_auc"], h365["test_pr_auc"], h730["test_pr_auc"]]
