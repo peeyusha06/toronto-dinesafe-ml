@@ -1,0 +1,2 @@
+model,test_brier_score,test_log_loss,test_pr_auc,test_roc_auc,test_prevalence
+catboost_tuned_final,0.20517269810760735,0.5982142885794685,0.17421968990108275,0.7337115866223876,0.07516545855657107

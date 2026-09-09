@@ -1,0 +1,8 @@
+category,coverage_fraction,feature_365d,feature_730d
+5C. Proper maintenance / washing of rooms (including washrooms),0.3937,prior_365d_maintenance_of_rooms,prior_730d_maintenance_of_rooms
+05. MAINTENANCE / SANITATION OF NON-FOOD CONTACT SURFACES / EQUIPMENT,0.1777,prior_365d_non_food_surface_sanitation,prior_730d_non_food_surface_sanitation
+3A. Separate and convenient hand washing sink(s),0.0571,prior_365d_handwashing_sink,prior_730d_handwashing_sink
+A. OPERATOR FAIL TO MEET ADMINISTRATIVE REQUIREMENTS OF,0.0377,prior_365d_admin_requirements_a,prior_730d_admin_requirements_a
+2C. Proper utensils/equipment and/or procedures used to ensure,0.0351,prior_365d_utensil_equipment_procedures,prior_730d_utensil_equipment_procedures
+ADMINISTRATIVE REQUIREMENTS,0.033,prior_365d_administrative_requirements,prior_730d_administrative_requirements
+03. EMPLOYEE HYGIENE AND HANDWASHING,0.0299,prior_365d_employee_hygiene_handwashing,prior_730d_employee_hygiene_handwashing

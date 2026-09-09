@@ -1,0 +1,16 @@
+category,frequency,coverage_fraction,feature_365d,feature_730d
+5C. PROPER MAINTENANCE / WASHING OF ROOMS (INCLUDING WASHROOMS),28804,0.4729,prior_365d_cat_5c_maintenance_rooms,prior_730d_cat_5c_maintenance_rooms
+05. MAINTENANCE / SANITATION OF NON-FOOD CONTACT SURFACES / EQUIPMENT,6173,0.1013,prior_365d_cat_05_non_food_surfaces,prior_730d_cat_05_non_food_surfaces
+3A. SEPARATE AND CONVENIENT HAND WASHING SINK(S),4178,0.0686,prior_365d_cat_3a_handwashing_sink,prior_730d_cat_3a_handwashing_sink
+A. OPERATOR FAIL TO MEET ADMINISTRATIVE REQUIREMENTS OF,2760,0.0453,prior_365d_cat_a_admin_requirements,prior_730d_cat_a_admin_requirements
+2C. PROPER UTENSILS/EQUIPMENT AND/OR PROCEDURES USED TO ENSURE,2568,0.0422,prior_365d_cat_2c_utensil_procedures,prior_730d_cat_2c_utensil_procedures
+4C. PROVISION AND PROPER USE OF SINKS AND SUPPLIES FOR MANUAL,1748,0.0287,prior_365d_cat_4c_sink_supplies,prior_730d_cat_4c_sink_supplies
+4D. PROPERLY EQUIPPED / MAINTAINED MECHANICAL WASHER FOR,1724,0.0283,prior_365d_cat_4d_mechanical_washer,prior_730d_cat_4d_mechanical_washer
+5B. ACCURATE INDICATING AND EASILY READABLE THERMOMETERS,1561,0.0256,prior_365d_cat_5b_thermometers,prior_730d_cat_5b_thermometers
+8A. ADEQUATE PEST CONTROL,1320,0.0217,prior_365d_cat_8a_pest_control,prior_730d_cat_8a_pest_control
+ADMINISTRATIVE REQUIREMENTS,1237,0.0203,prior_365d_cat_administrative_requirements,prior_730d_cat_administrative_requirements
+03. EMPLOYEE HYGIENE AND HANDWASHING,1024,0.0168,prior_365d_cat_03_employee_hygiene,prior_730d_cat_03_employee_hygiene
+04. MAINTENANCE / SANITATION OF FOOD CONTACT SURFACES / UTENSILS / EQUIPMENT,979,0.0161,prior_365d_cat_04_food_contact_surfaces,prior_730d_cat_04_food_contact_surfaces
+2B. FOOD PROTECTED FROM CONTAMINATION / ADULTERATION (E.G. FOOD,934,0.0153,prior_365d_cat_2b_food_contamination,prior_730d_cat_2b_food_contamination
+6B. PROVISION OF SANITARY FACILITY SUPPLIES,805,0.0132,prior_365d_cat_6b_sanitary_supplies,prior_730d_cat_6b_sanitary_supplies
+02. FOOD PROTECTED FROM CONTAMINATION,768,0.0126,prior_365d_cat_02_food_contamination,prior_730d_cat_02_food_contamination
