@@ -1,0 +1,2 @@
+model,feature_set,val_pr_auc,val_roc_auc,threshold,test_pr_auc,test_roc_auc,test_precision,test_recall,test_f1,test_accuracy,train_rows,val_rows,test_rows,train_start,train_end,val_start,val_end,test_start,test_end
+catboost,previous inspection + 365-day + 730-day history (15 features),0.15708249242408237,0.7165990981528939,0.6,0.15901540196910224,0.7169233988197232,0.17778793418647165,0.4077568134171908,0.24761298535964354,0.813740939174283,45334,11740,12692,2023-11-10,2025-11-05,2025-11-06,2026-04-09,2026-04-10,2026-09-08

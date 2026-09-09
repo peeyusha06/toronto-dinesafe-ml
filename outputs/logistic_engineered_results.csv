@@ -1,0 +1,2 @@
+model,feature_set,val_pr_auc,val_roc_auc,threshold,test_pr_auc,test_roc_auc,test_precision,test_recall,test_f1,test_accuracy,train_rows,val_rows,test_rows,train_start,train_end,val_start,val_end,test_start,test_end
+logistic_engineered_22feat,15 existing + 7 engineered longitudinal features,0.16311728684814822,0.7287224371891691,0.7,0.17260275287282675,0.7170144414403505,0.19903581267217632,0.3029350104821803,0.24023275145469658,0.8559722659943272,45334,11740,12692,2023-11-10,2025-11-05,2025-11-06,2026-04-09,2026-04-10,2026-09-08

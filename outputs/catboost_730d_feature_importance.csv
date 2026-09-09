@@ -1,0 +1,16 @@
+feature,importance
+days_since_previous_inspection,21.670252277840696
+n_inspections_seen_so_far,16.860774253211666
+prior_730d_total_infractions,14.877416091165218
+prior_365d_total_infractions,8.507305337014865
+prior_730d_n_inspections,6.475701206710795
+prev_non_pass,6.341113861145165
+prior_365d_n_inspections,5.123029801172979
+prev_total_infractions,4.331289151624562
+prev_minor,3.7586956103685636
+prev_significant,3.288500941576265
+prior_730d_crucial_infractions,2.8599908162941126
+prior_730d_n_non_pass,2.6673344639136727
+prior_365d_n_non_pass,1.383156433155164
+prev_crucial,0.937661482939432
+prior_365d_crucial_infractions,0.9177782718668297
