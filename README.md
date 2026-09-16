@@ -4,6 +4,24 @@ A research project on Toronto's public DineSafe restaurant inspection data, look
 
 Live dashboard: https://toronto-dinesafe-ml.streamlit.app/
 
+If the app has been asleep, click "Yes, get this app back up!" and give it about a minute to load. These screenshots show what it looks like:
+
+**Overview**
+
+![Dashboard overview](docs/screenshots/overview.png)
+
+**Model experiments**
+
+![Test-set results for each model and feature set](docs/screenshots/experiments.png)
+
+**Risk ranking (Top-K)**
+
+![Top-K risk ranking table and cumulative recall curve](docs/screenshots/risk_ranking.png)
+
+**What the model relies on**
+
+![Mean SHAP values for the final CatBoost model](docs/screenshots/what_the_model_relies_on.png)
+
 ## Research question
 
 How much does longitudinal inspection history improve prediction of an establishment's next DineSafe inspection outcome, and how does the amount and recency of available history affect predictive performance?
