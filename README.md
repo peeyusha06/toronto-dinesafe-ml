@@ -4,6 +4,8 @@ A research project on Toronto's public DineSafe restaurant inspection data, look
 
 Live dashboard: https://toronto-dinesafe-ml.streamlit.app/
 
+Literature review: [literature_review/DineSafe_Literature_Review.pdf](literature_review/DineSafe_Literature_Review.pdf). Written during the project to guide the study design, tidied up in September 2026.
+
 If the app has been asleep, click "Yes, get this app back up!" and give it about a minute to load. These screenshots show what it looks like:
 
 **Overview**
