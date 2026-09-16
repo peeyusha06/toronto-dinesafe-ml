@@ -6,23 +6,7 @@ Live dashboard: https://toronto-dinesafe-ml.streamlit.app/
 
 Literature review: [literature_review/DineSafe_Literature_Review.pdf](literature_review/DineSafe_Literature_Review.pdf). Written during the project to guide the study design, tidied up in September 2026.
 
-If the app has been asleep, click "Yes, get this app back up!" and give it about a minute to load. These screenshots show what it looks like:
-
-**Overview**
-
-![Dashboard overview](docs/screenshots/overview.png)
-
-**Model experiments**
-
-![Test-set results for each model and feature set](docs/screenshots/experiments.png)
-
-**Risk ranking (Top-K)**
-
-![Top-K risk ranking table and cumulative recall curve](docs/screenshots/risk_ranking.png)
-
-**What the model relies on**
-
-![Mean SHAP values for the final CatBoost model](docs/screenshots/what_the_model_relies_on.png)
+If the app has been asleep, click "Yes, get this app back up!" and give it about a minute to load.
 
 ## Research question
 
